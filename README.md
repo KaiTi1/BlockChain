@@ -1,2 +1,2 @@
-# BlockChainExe
+# BlockChainExercises
 BlockChain exercises

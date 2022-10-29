@@ -1,2 +1,1 @@
-# BlockChainExercises
-BlockChain exercises
+# SmartContract Exercises
